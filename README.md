@@ -1,5 +1,5 @@
 # 📊 Análise de Dados de Vendas - AluraStoreBr
-
+<img width="500" height="500" alt="bb9b4a07-c633-4b9d-a934-544b9b96d915" src="https://github.com/user-attachments/assets/c3023254-2488-49f7-87a4-688387355a9b" />
 ## 🌟 Visão Geral
 Este projeto realiza uma análise de dados de vendas de quatro lojas virtuais (AluraStoreBr) utilizando Python e bibliotecas como Pandas e Matplotlib. O objetivo é extrair insights sobre o faturamento, avaliações dos clientes, produtos mais/menos vendidos e padrões nas diferentes lojas.
 
@@ -89,6 +89,7 @@ A **Loja 4 é a unidade que menos agrega ao negócio**, com resultados inferiore
 - 📈 Potencial de crescimento
 - ⚙️ Eficiência operacional
 
+
 ## 📂 Dados Analisados
 Os dados incluem informações como:
 - 📦 Produto e categoria
@@ -98,3 +99,5 @@ Os dados incluem informações como:
 - ⭐ Avaliação da compra
 - 💳 Tipo de pagamento
 - 🗺️ Coordenadas geográficas (lat/lon)
+
+
